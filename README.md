@@ -7,7 +7,7 @@ Unit 8 (5%)
 Unit 9 (10%)
 Unit 10 (15%)
             
-**T4 (50 Marks SEE)**
+__Paper Style__
 MCQ: 9 (3-3-3 from T1, T2 and T3 from PB) + 16 (MCQs)   
 Programs: 25 
 
