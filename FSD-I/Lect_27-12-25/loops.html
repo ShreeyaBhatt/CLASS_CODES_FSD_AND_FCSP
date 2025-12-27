@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Loops</title>
+    <script>
+        // for
+        let num = 5;
+        console.log("Table of " + num);
+        for (let i = 1; i <= 10; i++) {
+            console.log(num + " x " + i + " = " + (num * i));
+        }
+        
+        // while
+        let i1 = 1;
+        while (i1<=5){
+            console.log(i1);
+            i1++;
+        }
+
+        // do-while
+        let i2 = 7;
+        do{
+            console.log(i2);
+            i2++;
+        } while(i2<=6)
+
+        // for-of
+        let fruits = ["Apple","Banana","Orange"]
+        for (let fruit of fruits){
+            console.log(fruit)
+        }
+
+        // for-in
+        let user = {name:"xyz",age:25,city:"Ahmedabad"};
+        for (let key in user){
+            console.log(key+":"+user[key])
+        }
+
+    </script>
+</head>
+<body></body>
+</html>
